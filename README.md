@@ -1,5 +1,5 @@
 ### Hi I'm Abdullah 👋
-A mechatronics and robotics engineer with a keen interest in embedded software development.
+A mechatronics and robotics engineer with a keen interest in software development.
 
 <!--
 **abdullahmaherr/abdullahmaherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
